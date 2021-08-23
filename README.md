@@ -55,6 +55,6 @@ El apiKey les llegara por mail a cada uno.
 
 # Pasos a seguir
 
-- Clonen el proyecto
+- Generen un nuevo proyecto a partir del boton "Use this template" en la parte superior
 - Mantengan la estructura de directorios y el archivo LICENCE
 - Reemplacen el contenido del README con la informacion necesaria para entender y ejecutar el proyecto
